@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=woo0dev)](https://github.com/anuraghazra/github-readme-stats)  
   
-  TECH
+  ## TECH
   <img src="https://img.shields.io/badge/Swift-red?style=flat-square&logo=sSwift&logoColor=white"/></a>
 
   <div align=center>
     [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoo0dev)](https://hits.seeyoufarm.com) 
   </div>
-</div
+</div>

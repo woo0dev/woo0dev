@@ -23,6 +23,4 @@ Here are some ideas to get you started:
   ## TECH
   <img src="https://img.shields.io/badge/Swift-red?style=flat-square&logo=sSwift&logoColor=white"/></a>
 
-  <div align=center>
-    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoo0dev)](https://hits.seeyoufarm.com) 
-  </div>
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoo0dev)](https://hits.seeyoufarm.com) 

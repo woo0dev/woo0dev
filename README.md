@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=woo0dev%20GitHub&fontSize=90)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=woo0dev)](https://github.com/anuraghazra/github-readme-stats)  
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=woo0dev)](https://github.com/anuraghazra/github-readme-stats)   -->
   
 ## 🛠TECH🛠
   

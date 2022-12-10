@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=woo0dev%20GitHub&fontSize=90)
 
-### 새로운 기술에 도전하는 개발자
+## 새로운 기술에 도전하는 개발자
 더 좋은 코드를 작성하기 위해 고민하는 것을 좋아하는 개발자 정우영입니다.  
 많은 사람들이 유용하게 사용할 수 있는 서비스를 직접 개발할 때 즐거움과 성취감을 느낍니다.
 
